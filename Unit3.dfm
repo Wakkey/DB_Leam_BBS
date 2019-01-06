@@ -1,0 +1,72 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = #35352#20107#12398#19968#35239
+  ClientHeight = 211
+  ClientWidth = 418
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 418
+    Height = 170
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 0
+    ExplicitLeft = 120
+    ExplicitTop = 40
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object Memo1: TMemo
+      Left = 0
+      Top = 0
+      Width = 418
+      Height = 170
+      Align = alClient
+      TabOrder = 0
+      ExplicitLeft = 160
+      ExplicitTop = 80
+      ExplicitWidth = 185
+      ExplicitHeight = 89
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Top = 170
+    Width = 418
+    Height = 41
+    Align = alBottom
+    BevelOuter = bvNone
+    TabOrder = 1
+    ExplicitLeft = 120
+    ExplicitTop = 72
+    ExplicitWidth = 185
+    object Panel3: TPanel
+      Left = 312
+      Top = 0
+      Width = 106
+      Height = 41
+      Align = alRight
+      BevelOuter = bvNone
+      TabOrder = 0
+      object Button1: TButton
+        Left = 6
+        Top = 6
+        Width = 75
+        Height = 25
+        Caption = 'OK'
+        Default = True
+        ModalResult = 1
+        TabOrder = 0
+      end
+    end
+  end
+end

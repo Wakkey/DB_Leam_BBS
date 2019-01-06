@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/26 00:25:13.000.442,=C:\Users\yuhi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/03 13:58:33.000.973,=C:\Users\yuhi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/03 16:26:26.000.691,C:\Users\yuhi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\yuhi\Desktop\bbs\Unit1.dfm</Transaction>
+    <Transaction>2019/01/03 16:26:26.000.691,C:\Users\yuhi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\yuhi\Desktop\bbs\Unit1.pas</Transaction>
+    <Transaction>2019/01/03 16:26:27.000.871,C:\Users\yuhi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\yuhi\Desktop\bbs\Project1.dproj</Transaction>
+    <Transaction>2019/01/03 16:27:22.000.650,=C:\Users\yuhi\Desktop\bbs\Unit2.pas</Transaction>
+    <Transaction>2019/01/05 20:11:25.000.724,=C:\Users\yuhi\Desktop\bbs\Unit3.pas</Transaction>
+    <Transaction>2019/01/06 00:18:31.000.313,=C:\Users\yuhi\Desktop\bbs\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
